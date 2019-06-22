@@ -11,6 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
             android:name=".MainActivity"
@@ -27,6 +28,7 @@
         <activity android:name=".frp3.Frp3TalkActivity"/>
         <activity android:name=".frp4.Frp4TalkActivity" />
         <activity android:name=".mvvm0.Mvvm0TalkActivity" />
+        <activity android:name=".hw1.Hw1TalkActivity" />
         <activity android:name=".mvp0.Mvp0TalkActivity" />
         <activity android:name=".mvc1.Mvc1TalkActivity" />
         <activity android:name=".mvc1.Mvc1BackupActivity" />
